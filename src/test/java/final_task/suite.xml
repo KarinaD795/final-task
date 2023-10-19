@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="suite" verbose="10" parallel="tests" thread-count="4">
+
+    <listeners>
+        <listener class-name="listeners.CoreListener"/>
+    </listeners>
+
+    <test name="success">
+        <classes>
+            <class name="final_task.amazon.SuccessSignInTest"/>
+        </classes>
+    </test>
+
+    <test name="fail">
+        <classes>
+            <class name="final_task.amazon.FailedEmailTest"/>
+            <class name="final_task.amazon.FailedPasswordTest"/>
+        </classes>
+    </test>
+
+</suite>

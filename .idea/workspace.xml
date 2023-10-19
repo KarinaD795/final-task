@@ -4,7 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c421bf81-ae0a-4de9-9a83-dc3df53d0802" name="Changes" comment="" />
+    <list default="true" id="c421bf81-ae0a-4de9-9a83-dc3df53d0802" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/05317a29-c901-4b6e-aa51-6cef310b0f1e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1ab53e16-ff98-41f9-9a5a-d090224ba329-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1b4895ee-e3eb-4baf-b13b-157977a0c410-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/295bb413-fb8f-4b28-af4d-f0ead97f944e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/461039b1-00de-4295-a808-bd385dde5d47-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6c938fe6-c6c1-43b5-bdd9-e1310cc474e3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/76d45413-7109-4b51-abf2-7e35e7c1d44d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/864cb5fd-4bf9-43af-a247-8a1064b79af2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9e2b4812-9171-451a-8352-82adbeedee16-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c56e09fe-44d2-4cf6-a52a-36e4b27fa5c3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cc91e5c6-80ac-4268-9740-cd87a2840e7a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d981961f-e578-44e0-a1f1-ca023b01cc53-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/CoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/listeners/CoreListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/locators/MainPageLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/locators/SignInPageLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/AuthorizedMainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/PasswordPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/SignInPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/final_task/amazon/FailedEmailTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/final_task/amazon/FailedPasswordTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/final_task/amazon/SuccessSignInTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/final_task/MyListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/final_task/amazon/pages/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/final_task/amazon/pages/LoginPageLocators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/final_task/amazon/pages/ProfilePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/final_task/amazon/pages/ProfilePageLocators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/final_task/amazon/test_cases/LoginTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/final_task/test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/final_task/suite.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,28 +73,37 @@
     </option>
   </component>
   <component name="ProjectId" id="2Wu5Faav3V1KtArcrri2LaOXeTr" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/karina/www/final-task&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.LoginTest.successLoginTest">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.SuccessSignInTest.successLoginTest">
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test1.Test1" />
       <module name="final-task" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="test1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,17 +111,69 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTest.successLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FailedEmailTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="final-task" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="final_task.amazon.test_cases.*" />
+          <option name="PATTERN" value="final_task.amazon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="final_task.amazon.test_cases" />
-      <option name="MAIN_CLASS_NAME" value="final_task.amazon.test_cases.LoginTest" />
+      <option name="PACKAGE_NAME" value="final_task.amazon" />
+      <option name="MAIN_CLASS_NAME" value="final_task.amazon.FailedEmailTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuccessSignInTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="final-task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="final_task.amazon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="final_task.amazon" />
+      <option name="MAIN_CLASS_NAME" value="final_task.amazon.SuccessSignInTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuccessSignInTest.successLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="final-task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="final_task.amazon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="final_task.amazon" />
+      <option name="MAIN_CLASS_NAME" value="final_task.amazon.SuccessSignInTest" />
       <option name="METHOD_NAME" value="successLoginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuccessSignInTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="final-task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="final_task.amazon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="final_task.amazon" />
+      <option name="MAIN_CLASS_NAME" value="final_task.amazon.SuccessSignInTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -86,8 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LoginTest.successLoginTest" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="TestNG.SuccessSignInTest.successLoginTest" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="TestNG.SuccessSignInTest" />
+        <item itemvalue="TestNG.SuccessSignInTest.test" />
+        <item itemvalue="TestNG.FailedEmailTest" />
       </list>
     </recent_temporary>
   </component>
@@ -112,5 +212,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
