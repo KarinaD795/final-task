@@ -1,0 +1,25 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 28.745 s <<< FAILURE! - in TestSuite
+loginWithIncorrectPassword(final_task.amazon.FailedPasswordTest)  Time elapsed: 22.425 s  <<< FAILURE!
+com.codeborne.selenide.ex.ElementNotFound: 
+Element not found {By.xpath: //span[@class='a-list-item']}
+Expected: exist
+Screenshot: file:/Users/karina/www/final-task/build/reports/tests/1697830366532.0.png
+Page source: file:/Users/karina/www/final-task/build/reports/tests/1697830366532.0.html
+Timeout: 4 s.
+Caused by: NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='a-list-item']"}
+	at final_task.amazon.FailedPasswordTest.loginWithIncorrectPassword(FailedPasswordTest.java:20)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='a-list-item']"}
+  (Session info: chrome=118.0.5993.88)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.6', java.version: '20.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fa0969e0afdfe2344a68c533e4e91d44, findElement {using=xpath, value=//span[@class='a-list-item']}]
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 118.0.5993.88, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: /var/folders/5g/30_0s08j69b...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53122}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:53122/devtoo..., se:cdpVersion: 118.0.5993.88, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: accept, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fa0969e0afdfe2344a68c533e4e91d44
+	at final_task.amazon.FailedPasswordTest.loginWithIncorrectPassword(FailedPasswordTest.java:20)
+

@@ -1,0 +1,7 @@
+pages/AuthorizedMainPage.class
+locators/SignInPageLocators.class
+core/Constants.class
+pages/PasswordPage.class
+locators/MainPageLocators.class
+pages/MainPage.class
+pages/SignInPage.class

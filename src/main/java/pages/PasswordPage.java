@@ -3,6 +3,7 @@ package pages;
 import io.qameta.allure.Step;
 import locators.SignInPageLocators;
 import static com.codeborne.selenide.Selenide.page;
+import static com.codeborne.selenide.Selenide.sleep;
 
 
 public class PasswordPage extends SignInPageLocators {
@@ -10,6 +11,7 @@ public class PasswordPage extends SignInPageLocators {
     public PasswordPage enterPassword(String password) {
         inputPassword.clear();
         inputPassword.setValue(password);
+        sleep(1000);
         return this;
     }
 

@@ -8,7 +8,7 @@ import static com.codeborne.selenide.Selenide.$x;
 public class SignInPageLocators {
     public SelenideElement inputEmail = $(".a-section").find("#ap_email");
     public SelenideElement continueBtn = $(".a-section").find("#continue");
-    public SelenideElement errorEmailText = $x("//span[@class='a-list-item']");
+    public SelenideElement errorEmailText = $x("//h2[@class='a-text-normal']");
 
 
     //    password page

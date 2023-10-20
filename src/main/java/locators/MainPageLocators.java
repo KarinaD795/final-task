@@ -6,6 +6,6 @@ import static com.codeborne.selenide.Selenide.$x;
 
 
 public class MainPageLocators {
-    public SelenideElement signInBtn = $("#navbar-main").find("#nav-link-accountList");
+    public SelenideElement signInBtn = $("#nav-link-accountList");
     public SelenideElement userNameInHeader = $x("//span[@id='nav-link-accountList-nav-line-1']");
 }

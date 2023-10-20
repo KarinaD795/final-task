@@ -1,0 +1,5 @@
+final_task/amazon/SuccessSignInTest.class
+final_task/utils/ChromeOptionsProvider.class
+final_task/utils/InitialDriver.class
+final_task/amazon/FailedEmailTest.class
+final_task/amazon/FailedPasswordTest.class

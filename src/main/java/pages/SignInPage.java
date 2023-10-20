@@ -3,6 +3,7 @@ package pages;
 import io.qameta.allure.Step;
 import locators.SignInPageLocators;
 import static com.codeborne.selenide.Selenide.page;
+import static com.codeborne.selenide.Selenide.sleep;
 
 
 public class SignInPage extends SignInPageLocators {
@@ -17,6 +18,7 @@ public class SignInPage extends SignInPageLocators {
     @Step("Click on continue button")
     public PasswordPage clickOnContinueBtn() {
         continueBtn.click();
+        sleep(2000);
         return page(PasswordPage.class);
     }
 
